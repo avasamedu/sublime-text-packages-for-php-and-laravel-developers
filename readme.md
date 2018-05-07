@@ -19,6 +19,7 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 
 لینک | موضوع
 --- | ---
-[API نصب پکیج منیجر](http://packagemanager.com) | نصب پکیج منیجر
+[API نمایش آیکون](http://packagemanager.com) | ممکنه آیکون فایل های php و  blade و css و .... در محیط شما نمایش داده نشه و نتونید فایل ها رو از هم تفکیک کنید این پکیج مشکل شما رو حل خواهد کرد . 
+
 
 </div>
