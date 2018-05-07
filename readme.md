@@ -19,8 +19,9 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 
 لینک مخزن | توضیحات
 --- | ---
-[ نمایش آیکون](https://github.com/ihodev/a-file-icon) | ممکنه آیکون فایل های php و  blade و css و .... در محیط شما نمایش داده نشه و نتونید فایل ها رو از هم تفکیک کنید این پکیج مشکل شما رو حل خواهد کرد . 
-[  هایلایتر کدها](https://github.com/mmghv/sublime-monokai-rich) |  ممکنه کدهای پی اچ پی هایلایت یا اصطلاحا کدهای php شما ناشناخته باشه این پکیج مشکل رو حل میکنه  این پکیج کدهای php css js html laravel blade Markdown رو واستون هایلایت میکنه
+[نمایش آیکون](https://github.com/ihodev/a-file-icon) | ممکنه آیکون فایل های php و  blade و css و .... در محیط شما نمایش داده نشه و نتونید فایل ها رو از هم تفکیک کنید این پکیج مشکل شما رو حل خواهد کرد . 
+[هایلایتر کدها](https://github.com/mmghv/sublime-monokai-rich) |  ممکنه کدهای پی اچ پی هایلایت یا اصطلاحا کدهای php شما ناشناخته باشه این پکیج مشکل رو حل میکنه  این پکیج کدهای php css js html laravel blade Markdown رو واستون هایلایت میکنه
+[آرتیسان لاراول 5 ](https://github.com/dydx/Laravel-5-Artisan) |  php artisan یک ابزار سودمند لاراول هست برای استفاده از دستورات آرتیسان داخل سابلایم این پکیج رو کلون کنید 
 
 
 </div>
