@@ -27,4 +27,4 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 </div>
 
 
-تهیه کننده : http://samenta.ir
+تهیه کننده : http://avasam.ir
